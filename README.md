@@ -4,20 +4,16 @@
 [![Build Status](https://travis-ci.com/Shopify/shopify-app-node.svg?branch=master)](https://travis-ci.com/Shopify/shopify-app-node)
 
 
-## Installation
+## Use cases
 
-Using the [Shopify-App-CLI](https://github.com/Shopify/shopify-app-cli) run:
+* If prompts for user login through command line/terminal.
+* Once logged in, you'll be inside your Shopify store.
+* You can create populate sample items for testing.
 
-```sh
-~/ $ shopify create project APP_NAME
-```
-
-Or, fork and clone repo
 
 ## Images 
 
 <img src="readme_images/1.png"></img>
-
 
 
 ## Requirements
@@ -28,7 +24,7 @@ Or, fork and clone repo
 
 ## Usage
 
-This repository is used by [Shopify-App-CLI](https://github.com/Shopify/shopify-app-cli) as a scaffold for Node apps. You can clone or fork it yourself, but it’s faster and easier to use Shopify App CLI, which handles additional routine development tasks for you.
+This repository uses [Shopify-App-CLI](https://github.com/Shopify/shopify-app-cli) as a scaffold for Node apps. It’s faster and easier to use Shopify App CLI, which handles additional routine development tasks for you.
 
 ## License
 
